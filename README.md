@@ -43,27 +43,38 @@ Data cleaning steps performed:
 
 After cleaning, EDA was applied to uncover patterns and relationships:
 
-<img width="644" height="363" alt="image" src="https://github.com/user-attachments/assets/922fc198-b3ca-49c5-872f-bd4c2a032f2a" />
-
 1- * Computed **summary statistics** (mean, median, standard deviation) for each variable.
 
 
+<img width="644" height="363" alt="image" src="https://github.com/user-attachments/assets/922fc198-b3ca-49c5-872f-bd4c2a032f2a" />
 
-<img width="739" height="739" alt="image" src="https://github.com/user-attachments/assets/bcd9e600-d4f1-4465-8dd3-88917878dd19" />
+
+
 
 2- * Analyzed **distributions** with histograms and density plots.
 
 
+<img width="739" height="739" alt="image" src="https://github.com/user-attachments/assets/bcd9e600-d4f1-4465-8dd3-88917878dd19" />
 
-  <img width="509" height="433" alt="image" src="https://github.com/user-attachments/assets/45d6b7ab-41e9-43f0-a100-be0634733ab5" />
+
+
+
 
 3- * Examined **pairwise correlations** to identify strong relationships.
 
 
+  <img width="509" height="433" alt="image" src="https://github.com/user-attachments/assets/45d6b7ab-41e9-43f0-a100-be0634733ab5" />
+
+
+
+
+
+4- * Explored **time trends** by aggregating monthly totals.
+
 
   <img width="587" height="454" alt="image" src="https://github.com/user-attachments/assets/e253f774-4fa9-4dde-a61e-45e2a05ff954" />
 
-4- * Explored **time trends** by aggregating monthly totals.
+
 
 
 ## 4. Data Visualizations
