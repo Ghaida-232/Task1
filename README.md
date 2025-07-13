@@ -79,14 +79,14 @@ After cleaning, EDA was applied to uncover patterns and relationships:
 
 ## 4. Data Visualizations
 
-* 4.1 Boxplot to detect outliers
+* ## 4.1 Boxplot to detect outliers
 
 <img width="1416" height="676" alt="image" src="https://github.com/user-attachments/assets/43062643-7a38-4c4c-913b-03004c6d7f13" />
 
 
 
 
-* 4.2 Correlation matrix
+* ## 4.2 Correlation matrix
   
  <img width="750" height="540" alt="image" src="https://github.com/user-attachments/assets/71413741-e695-45b9-9aa4-ddd0f7d9113b" />
 
@@ -98,7 +98,7 @@ Useful insights we gain here are:
 
 
 
-* 4.3 Bar chart for item comparison
+* ## 4.3 Bar chart for item comparison
   
  <img width="1220" height="604" alt="image" src="https://github.com/user-attachments/assets/a7bcbe65-6b62-4c80-b17a-83aea8ca52fd" />
 
@@ -109,7 +109,7 @@ Useful insight we gain here:
 
 
 
-* 4.4 Line graph for monthly profit trends
+* ## 4.4 Line graph for monthly profit trends
   
  <img width="822" height="627" alt="image" src="https://github.com/user-attachments/assets/10b9edaa-1a08-447d-80c7-c97d1d29a81f" />
 
@@ -127,7 +127,7 @@ planning for future sales campaigns.
 
 
 
-* 4.5 Pairplot of numeric features
+* ## 4.5 Pairplot of numeric features
   
  <img width="798" height="758" alt="image" src="https://github.com/user-attachments/assets/697929e9-4f12-4f4b-bdfa-dec5a3510d7d" />
 
@@ -143,7 +143,7 @@ regardless of order size.
 
 
   
-* 4.6 Bar chart of revenue by weekday
+* ## 4.6 Bar chart of revenue by weekday
   
 <img width="806" height="496" alt="image" src="https://github.com/user-attachments/assets/59408e80-0fa4-4039-902a-fb59e69a666a" />
 
@@ -154,7 +154,7 @@ performance on Monday.
 - Workday seems to gain more revenue than the weekend that helps to consider customer 
 behavior.
 
-* 4.7 Bar chart of average spend per order by weekday
+* ## 4.7 Bar chart of average spend per order by weekday
   
 <img width="818" height="495" alt="image" src="https://github.com/user-attachments/assets/ebc9f143-0e3a-440f-9897-9a2d00e485cd" />
 
