@@ -186,11 +186,10 @@ planning and marketing strategies based on customer behavior trends.
 
 ```text
 .
-├── data/
+├── content/
 │   └── Dirty_Cafe_Sales.csv   # Dirty Cafe Sales dataset (Kaggle)
 ├── notebooks/
 │   └── Task1_EDA.ipynb        # Google Colab notebook performing cleaning & EDA
-├── Task1_Report.pdf           # Original report document
 └── README.md                  # Project README (this file)
 ```
 
